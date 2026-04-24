@@ -19,7 +19,7 @@
 
 ## 🎥 Preview
 
-![Preview do projeto](./preview.gif)
+![Preview](.Preview.png)
 
 ---
 
