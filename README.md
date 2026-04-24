@@ -19,7 +19,7 @@
 
 ## 🎥 Preview
 
-![Preview](./.Preview.png)
+![Preview](./.Preview)
 
 ---
 
